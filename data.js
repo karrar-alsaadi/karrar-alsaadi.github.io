@@ -14,7 +14,6 @@ const site = {
     GitHub: "https://github.com/karrar-alsaadi",
     LinkedIn: "https://www.linkedin.com/in/karrar-alsaadi-7829a9217/",
     YouTube: "https://www.youtube.com/@KarrarHMahdi",
-    ORCID: "",
     "Google Scholar": ""
   }
 };
