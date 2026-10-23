@@ -10,6 +10,7 @@ const site = {
   email: "karrar.h.alsaadi@gmail.com",   // "name@example.com"
   cv: "",                        // set to "assets/cv.pdf" after you add the PDF to assets/
   links: {
+    ORCID: "https://orcid.org/0009-0005-6259-2544",
     GitHub: "https://github.com/karrar-alsaadi",
     LinkedIn: "https://www.linkedin.com/in/karrar-alsaadi-7829a9217/",
     YouTube: "https://www.youtube.com/@KarrarHMahdi",
